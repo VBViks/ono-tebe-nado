@@ -157,7 +157,7 @@ body {
     padding-top: 135px;
 }
 
-.cover__description-text{
+.cover__description-text {
     font-size: 22px;
     text-transform: uppercase;
     color: #FFFFFF;
@@ -167,6 +167,7 @@ body {
 }
 
 .bet-button {
+    box-sizing: border-box;
     background-color: transparent;
     color: #FFFFFF;
     position:relative;
@@ -179,13 +180,7 @@ body {
     font-family: Raleway;
     border-width: 1px;
     border-color: #FFFFFF;
-    padding-bottom: 48px;
-}
-
-.bet-button__text {
-    display: flex;
-    justify-content: center;
-    padding-top: 10px;
+    padding-bottom: 4px;
 }
 
 .lots {                                                    
