@@ -351,7 +351,6 @@ body {
     align-items: flex-start;
     gap: 48px;
     list-style: none;
-    width: fit-content;
     width: 100%;
     max-width: 240px;
 }
